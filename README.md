@@ -16,5 +16,7 @@ It includes the necessary provisions for debugging.
 •	A URL reference to the project
 •	https://www.upgrad.com/blog/java-project-ideas-topics-for-beginners/
 
+UML Diagram:
 
+<img width="811" alt="Screen Shot 2021-02-18 at 10 57 21 PM" src="https://user-images.githubusercontent.com/70227511/108455835-fc370300-723c-11eb-84bc-a6f616a848a6.png">
 
